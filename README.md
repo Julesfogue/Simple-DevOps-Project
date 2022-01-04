@@ -4,7 +4,7 @@
 
 This Repository is a collection of Implementation documents. 
 
-### Purpose:
+### Purpose: Purpose
 By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - git
 - Jenkins
@@ -12,4 +12,5 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Ansible
 - Docker &
 - Kubernetes
+- 
 
